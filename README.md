@@ -11,14 +11,6 @@ I also used Headless-UI library to add dynamic components like dropdown in this 
 
 The project is build using Vue 3 with Vite as bundler. This uses Tailwind CSS for UI and Cypress for testing. Data is coming from PokeAPI.
 
-* [![Vue][Vue.js]][Vue-url]
-* [![Vite][Vite]][vite-url]
-* [![Cypress][cypress]][cypress-url]
-* [![Tailwind][Tailwind]][tailwind-url]
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Project Screenshots
 
 This section would show the screenshots for this project. There are currently 3 images for this project inside the screenshots folder. The screenshots show the Move list page, Pokemon detail page and Move detail page.
