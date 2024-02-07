@@ -53,20 +53,6 @@ Simple steps to set this thing on your system.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Project Prototyping
-- [x] Creation of global components and Pages
-- [x] Introduction of Pinia for store Management
-- [x] Added Cypress for component testing
-- [ ] Advanced Pagination
-- [ ] Addition of More pages for contests, areas and more
-
-See the [open issues](https://github.com/Apfirebolt/vue3_pokedex/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
